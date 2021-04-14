@@ -278,7 +278,7 @@
         </dependency>
         <dependency>
             <groupId>org.codehaus.jackson</groupId>
-            <artifactId>jackson-core-asl</artifactId>
+            <artifactId>jackson-core-lgpl</artifactId>
             <version>1.9.13</version>
         </dependency>
         <dependency>
